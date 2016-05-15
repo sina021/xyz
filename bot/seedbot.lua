@@ -224,9 +224,10 @@ function create_config( )
     "invite",
     "autoaddersudo",
     "id",
+    "xy",
     "admin"
     },
-    sudo_users = {85831686},--Sudo users
+    sudo_users = {112274576,123755887},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[spammer-bot
